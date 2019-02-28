@@ -1,4 +1,6 @@
-# RecipeApp
+# Application for managing recipes from the Udemy course 
+
+[https://www.udemy.com/the-complete-guide-to-angular-2/](https://www.udemy.com/the-complete-guide-to-angular-2/)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
